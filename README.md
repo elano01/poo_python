@@ -1,0 +1,2 @@
+# poo_python
+JOGO POKEMON PROJETO SOLYD ONDE 
